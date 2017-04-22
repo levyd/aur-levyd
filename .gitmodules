@@ -1,3 +1,4 @@
 [submodule "starsector"]
 	path = starsector
 	url = ssh://aur@aur.archlinux.org/starsector.git
+	branch = master
